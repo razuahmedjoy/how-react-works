@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## I will read React docs daily
+[React Docs](https://reactjs.org/docs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
